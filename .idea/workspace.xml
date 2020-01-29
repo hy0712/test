@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="750cba05-bd4a-4152-bbd4-a10e02a2cc64" name="Default Changelist" comment="" />
+    <list default="true" id="750cba05-bd4a-4152-bbd4-a10e02a2cc64" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dict_to_json.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/json_to_dict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read_json.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wirte_to_json.py" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +19,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="895" />
+    <option name="x" value="894" />
     <option name="y" value="72" />
     <option name="width" value="1440" />
     <option name="height" value="765" />
@@ -67,16 +74,18 @@
       <option name="presentableId" value="Default" />
       <updated>1580290549419</updated>
       <workItem from="1580290551031" duration="54000" />
+      <workItem from="1580292286451" duration="30000" />
+      <workItem from="1580292319208" duration="23000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="288000" />
+    <option name="totallyTimeSpent" value="1129000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="597" y="48" width="960" height="510" extended-state="0" />
+    <frame x="596" y="48" width="960" height="510" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24944568" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26053214" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="DB Browser" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -92,7 +101,7 @@
       <window_info anchor="bottom" id="DB Execution Console" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Graph Database Console" order="11" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.33068782" />
+      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.39417988" />
       <window_info anchor="bottom" id="Python Console" order="13" />
       <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
