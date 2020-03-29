@@ -6,7 +6,7 @@ import os.path
 import xlwt
 import xlrd
 
-basedir = r"D:\20200205\人脸属性信息测试\戴口罩\face"
+basedir = r"D:\20200205\20200225\C4S-222-X12定焦筒机\人脸属性\mask1\face"
 #print(basedir)
 
 #  --- 创建表格 ---

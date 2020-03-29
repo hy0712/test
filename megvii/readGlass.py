@@ -6,7 +6,7 @@ import os.path
 import xlwt
 import xlrd
 
-basedir = r"C:\Users\46114\Desktop\glass"
+basedir = r"D:\20200205\20200225\C4S-222-X12定焦筒机\人脸属性\glasses\face"
 #print(basedir)
 
 #  --- 创建表格 ---
@@ -19,8 +19,8 @@ getTable2 = getWordExcel.add_sheet('getGlasses2',cell_overwrite_ok=True)
 index = 1
 index2 = 0
 # --- 判断该表格是否存在 ---
-if os.path.isfile(basedir+'/WordXls.xls'):
-    os.remove(basedir+'/WordXls.xls')
+if os.path.isfile(basedir+'/Glasses.xls'):
+    os.remove(basedir+'/Glasses.xls')
 
 
 
