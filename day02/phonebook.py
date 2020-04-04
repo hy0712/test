@@ -5,7 +5,6 @@
 
 import pickle
 
-
 class Record:
     global_id = 0
 
